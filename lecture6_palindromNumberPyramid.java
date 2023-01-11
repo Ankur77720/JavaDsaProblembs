@@ -17,5 +17,6 @@ public class lecture6_palindromNumberPyramid {
       }
       System.out.println();
     }
+    sc.close();
   }
 }

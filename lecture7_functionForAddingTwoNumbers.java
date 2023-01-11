@@ -12,5 +12,6 @@ public class lecture7_functionForAddingTwoNumbers {
     int num1 = sc.nextInt();
     int num2 = sc.nextInt();
     add(num1, num2);
+    sc.close();
   }
 }

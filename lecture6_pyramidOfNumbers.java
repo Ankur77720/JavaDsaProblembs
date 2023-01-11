@@ -14,5 +14,6 @@ public class lecture6_pyramidOfNumbers {
       }
       System.out.println();
     }
+    sc.close();
   }
 }

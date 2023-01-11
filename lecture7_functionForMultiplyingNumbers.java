@@ -13,6 +13,7 @@ public class lecture7_functionForMultiplyingNumbers {
     int num1 = sc.nextInt();
     int num2 = sc.nextInt();
     System.out.println(multiplyNumbers(num1, num2));
+    sc.close();
     return;
   }
 }

@@ -16,5 +16,6 @@ public class equal {
         System.out.println("No values are equal");
       }
     }
+    sc.close();
   }
 }

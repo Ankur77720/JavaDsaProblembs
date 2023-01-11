@@ -20,5 +20,6 @@ public class lecture6_SolidHollowRhombus {
       }
       System.out.println();
     }
+    sc.close();
   }
 }

@@ -14,5 +14,6 @@ public class lecture6_SolidRohmbus {
       }
       System.out.println();
     }
+    sc.close();
   }
 }

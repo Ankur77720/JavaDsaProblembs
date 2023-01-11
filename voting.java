@@ -16,5 +16,6 @@ public class voting {
     if (age < 18) {
       System.out.println("You can cast vote after " + (18 - age) + " Years");
     }
+    sc.close();
   }
 }

@@ -13,5 +13,6 @@ public class fahreniteIntoCelcius {
       ((fahrenite - 32) * 5 / 9) +
       " Celcius"
     );
+    sc.close();
   }
 }

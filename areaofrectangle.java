@@ -13,5 +13,6 @@ public class areaofrectangle {
       "Perimeter of Rectangle is : " +
       (2 * (length + width))
     );
+    sc.close();
   }
 }

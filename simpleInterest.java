@@ -14,5 +14,6 @@ public class simpleInterest {
     System.out.println(
       "Simple Interest from the given value is : " + simpleInterest
     );
+    sc.close();
   }
 }

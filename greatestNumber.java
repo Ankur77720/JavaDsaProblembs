@@ -15,5 +15,6 @@ public class greatestNumber {
     } else {
       System.out.println("Both Numbers are equal");
     }
+    sc.close();
   }
 }

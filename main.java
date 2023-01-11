@@ -9,5 +9,6 @@ public class main {
     System.out.println(
       "The sum of " + Num1 + " and " + Num2 + " is " + (Num1 + Num2)
     );
+    sc.close();
   }
 }

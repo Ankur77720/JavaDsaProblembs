@@ -6,5 +6,6 @@ public class evenOdd {
     Scanner sc = new Scanner(System.in);
     Double number = sc.nextDouble();
     System.out.println("Number is " + (number % 2 == 0 ? "Even" : "Odd"));
+    sc.close();
   }
 }

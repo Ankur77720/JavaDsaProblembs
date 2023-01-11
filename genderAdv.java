@@ -14,5 +14,6 @@ public class genderAdv {
         System.out.println("Invalid Input");
       }
     }
+    sc.close();
   }
 }

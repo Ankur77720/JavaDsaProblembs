@@ -14,5 +14,6 @@ public class lecture7_factorial {
     Scanner sc = new Scanner(System.in);
     int num = sc.nextInt();
     System.out.println(factorial(num));
+    sc.close();
   }
 }

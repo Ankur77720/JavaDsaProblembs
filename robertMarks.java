@@ -33,5 +33,6 @@ public class robertMarks {
       "Total percentage student obtain : " +
       ((math + english + computer) * 100 / 300)
     );
+    sc.close();
   }
 }

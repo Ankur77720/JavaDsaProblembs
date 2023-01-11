@@ -13,5 +13,6 @@ public class gender {
           : ((gender == 'F') || (gender == 'f')) ? "Ma'am" : ""
       )
     );
+    sc.close();
   }
 }

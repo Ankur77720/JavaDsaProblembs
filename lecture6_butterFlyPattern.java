@@ -29,5 +29,6 @@ public class lecture6_butterFlyPattern {
       }
       System.out.println("");
     }
+    sc.close();
   }
 }
